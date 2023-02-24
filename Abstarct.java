@@ -1,4 +1,4 @@
-interface User
+interface Users
 {
     public void login();
     public void logout();
